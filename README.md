@@ -1,35 +1,35 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-Valle05211261-)
 
-# Gemelos Digitales. Proyecto final [Cipriano20211961]
+# Digital Twins. Final Project [Cipriano20211961]
 
-## Autor
+## Author
 
 Cipriano Camacho Mario Tolentino
 
-Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
+Biomedical Engineering, Department of Electrical and Electronic Engineering, National Technological Institute of Mexico / IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., Mexico. Email: paul.valle@tectijuana.edu.mx
 
-## Resumen de la práctica
+## Practice Summary
 
-En esta práctica se realizó la modelación de un sistema dinámico que representa la interacción entre tres poblaciones biológicas. Utilizando datos experimentales obtenidos in vitro, se llevó a cabo un proceso de suavizado y análisis temporal de la información. A continuación, se desarrolló un modelo basado en ecuaciones diferenciales no lineales, ajustado mediante técnicas de regresión para optimizar su precisión. Se estudiaron los puntos de equilibrio del sistema, su estabilidad y la convergencia hacia estados estacionarios. Para concluir, se generaron gráficos de las trayectorias de las variables y se realizó una representación visual de la interacción biológica. Este método facilitó la comprensión de la dinámica del sistema y la influencia de distintos parámetros en su comportamiento.
+In this practice, a dynamic system modeling the interaction between three biological populations was performed. Using experimental data obtained in vitro, a smoothing process and temporal analysis of the information were carried out. Next, a model based on nonlinear differential equations was developed and fitted using regression techniques to optimize its accuracy. The system’s equilibrium points, stability, and convergence towards steady states were studied. Finally, graphs of the variables’ trajectories were generated along with a visual representation of the biological interaction. This method facilitated understanding the system dynamics and the influence of different parameters on its behavior.
 
-## Objetivos específicos
+## Specific Objectives
 
-1. Preprocesar los datos experimentales mediante técnicas de suavizado para reducir el ruido de la señal original.
+1. Preprocess the experimental data using smoothing techniques to reduce noise in the original signal.
 
-2. Formular un modelo matemático que describa la dinámica de interacción entre las tres poblaciones biológicas.
+2. Formulate a mathematical model describing the dynamic interaction between the three biological populations.
 
-3. Ajustar los parámetros del modelo mediante regresión no lineal para que las simulaciones se alineen con los datos experimentales suavizados.
+3. Fit the model parameters via nonlinear regression so that simulations align with the smoothed experimental data.
 
-4. Analizar la estabilidad del sistema evaluando los puntos de equilibrio y los eigen valores de la matriz Jacobiana asociada al modelo.
+4. Analyze system stability by evaluating equilibrium points and eigenvalues of the Jacobian matrix associated with the model.
 
-5. Representar gráficamente la interacción entre las poblaciones biológicas utilizando BioRender.
+5. Graphically represent the interaction among biological populations using BioRender.
 
-## Docente
+## Instructor
 
 Dr. Paul A. Valle
 
-Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléctrica y Electrónica [DIEE], Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: paul.valle@tectijuana.edu.mx
+Graduate Program in Engineering Sciences [PCI] and Department of Electrical and Electronic Engineering [DIEE], National Technological Institute of Mexico / IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., Mexico. Email: paul.valle@tectijuana.edu.mx
 
-## Lecturas
+## References
 
-[1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
+[1] Paul A. Valle, Biomathematics Syllabus for the Digital Twins course, National Technological Institute of Mexico / IT Tijuana, Tijuana, B.C., Mexico, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
